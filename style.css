@@ -3,6 +3,7 @@ h2{
     background-color: #ffffff;
     color: blue;
     padding: 5px;
+    position: static;
     
 }
 
@@ -96,6 +97,9 @@ label {
     }
     [id="me"]{
         width: 100%;
+    }
+    h2{
+        position: static;
     }
 }
   
