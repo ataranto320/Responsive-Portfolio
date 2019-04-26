@@ -64,6 +64,38 @@ label {
 }
 
 @media screen and (max-width: 980px) {
-   
-  }
+   [class="container"]{
+       width: 100%;
+   }
+   [id="main-bio "]{
+       width: 100%;
+   }
+   [id="me"]{
+       width: 100%;
+   }
+}
+
+@media screen and (max-width: 768px) {
+    [class="container"]{
+        width: 100%;
+    }
+    [id="main-bio "]{
+        width: 100%;
+    }
+    [id="me"]{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    [class="container"]{
+        width: 100%;
+    }
+    [id="main-bio "]{
+        width: 100%;
+    }
+    [id="me"]{
+        width: 100%;
+    }
+}
   
